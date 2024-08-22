@@ -2,7 +2,7 @@ I'm[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vs
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+#Part 1: Introduction to Software Engineering.
 
 Explain what software engineering is and discuss its importance in the technology industry.
 ans:Software engineering is the systematic application of engineering principles to the design, development, testing, maintenance, and management of software systems. 
